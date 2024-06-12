@@ -2,6 +2,9 @@
 
 This project provides a simple graphical user interface (GUI) wrapper for FFmpeg, designed to make basic video editing tasks accessible for users with minimal technical experience. The application allows users to increase the audio volume of a video file, cut the video from a specified start time, and perform test runs that process only the first 60 seconds of the video.
 
+![image](https://github.com/alexeygrigorev/ffmpeg-gui/assets/875246/ed08b8e9-84d2-4f02-9e14-924f5209ec11)
+
+
 ## Prerequisites
 
 - Python 3.11
